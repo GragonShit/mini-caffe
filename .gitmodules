@@ -7,3 +7,6 @@
 [submodule "android/android-cmake"]
 	path = android/android-cmake
 	url = https://github.com/taka-no-me/android-cmake.git
+[submodule "misaka/dlpack"]
+	path = misaka/dlpack
+	url = https://github.com/dmlc/dlpack.git
